@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<RemoteSiteSetting xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>Prodly connection &apos;S3&apos; used to retrieve the org’s schema.</description>
-    <disableProtocolSecurity>false</disableProtocolSecurity>
-    <isActive>true</isActive>
-    <url>https://appopsqa4--sb3.sandbox.my.salesforce.com</url>
-</RemoteSiteSetting>
