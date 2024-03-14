@@ -1,0 +1,2 @@
+Guid,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ConfiguratorEvaluationEvent__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupObject__c,SBQQ__TargetObject__c
+3533b322-75e0-4ff9-8e45-1f28f94f1a1d,Rule1,false,#N/A,Any,#N/A,On Calculate,#N/A,#N/A,Configurator
