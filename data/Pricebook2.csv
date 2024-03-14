@@ -1,7 +1,10 @@
-"Guid","Description","IsActive","Name"
-2b92b49a-7d69-49e3-9152-0c0e00825278,"#N/A",true,price Book1
-3b11bba6-7ee3-4b32-a48e-d3481e5ce7e5,"#N/A",true,Standard Price Book
-50b8c4ba-2318-4be2-ae64-95bece5181cc,"#N/A",true,Custom book1
-5356ccb6-92b5-4cc9-a0ef-09710951813c,"#N/A",true,Pbook1
-78bbb2e8-6977-49de-96aa-945d4d22cddd,"#N/A",true,Pbook2
-fa40c45b-29d7-4923-8ef3-07bf510aebc0,"#N/A",true,Custom 23
+Guid,Name,IsActive,Description
+2b92b49a-7d69-49e3-9152-0c0e00825278,price Book1,true,#N/A
+3b11bba6-7ee3-4b32-a48e-d3481e5ce7e5,Standard Price Book,true,#N/A
+50b8c4ba-2318-4be2-ae64-95bece5181cc,Custom book1,true,#N/A
+5356ccb6-92b5-4cc9-a0ef-09710951813c,Pbook1,true,#N/A
+78bbb2e8-6977-49de-96aa-945d4d22cddd,Pbook2,true,#N/A
+fa40c45b-29d7-4923-8ef3-07bf510aebc0,Custom 23,true,#N/A
+50f666b2-d3b9-4e4f-9304-199dacce2d05,Standard Price Book,false,#N/A
+449f6add-cb41-43a1-b8a0-5c907597bd11,Pbook1,true,#N/A
+a20a25c1-1c44-4bd0-a068-b4a6e727f385,Pbook2,true,#N/A
