@@ -1,0 +1,4 @@
+Guid,AccountId,Name,Description,StageName,Amount,Probability,CloseDate,Type,NextStep,LeadSource,ForecastCategoryName,SBQQ__Contracted__c,SBQQ__CreateContractedPrices__c,SBQQ__OrderGroupID__c,SBQQ__Ordered__c,SBQQ__QuotePricebookId__c,SBQQ__Renewal__c
+1116cc7c-a700-4b83-be81-6a5a7538d6f6,3e463b36-d8e5-40de-b686-3a1da6b49662,LLL,#N/A,Id. Decision Makers,#N/A,60.0,2023-11-17,#N/A,#N/A,#N/A,Pipeline,false,false,#N/A,false,#N/A,false
+3766acae-be13-4517-ad92-2c3c65bf1a84,32b43166-a69a-41f3-99b9-cecc4d57a0fb,Test,#N/A,Qualification,#N/A,10.0,2024-02-28,#N/A,#N/A,#N/A,Pipeline,false,false,#N/A,false,#N/A,false
+1affc183-3512-48ca-8aad-9085060c7f24,20d075f1-532c-42f8-8c0a-b89d8976ee2b,Test 4328 OPPORTUNITY,#N/A,Prospecting,#N/A,10.0,2023-12-14,#N/A,#N/A,#N/A,Pipeline,false,false,#N/A,false,#N/A,false
